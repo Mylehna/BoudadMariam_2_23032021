@@ -12,7 +12,7 @@ a {
 .header {
   display: grid;
   align-items: center;
-  max-width: 1550px;
+  max-width: 1500px;
   margin: auto;
 }
 .headerImg {
@@ -520,3 +520,5 @@ a {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+
