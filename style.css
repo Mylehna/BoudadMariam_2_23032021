@@ -243,8 +243,7 @@ a {
   }
 }
 .accomodationgWrapper, .accomodationPopular, .accomodationMain {
-  background-color: #F2F2F2;
-  border-radius: 1.5rem;
+  background-color:white;
   padding: 2rem;
 }
 
