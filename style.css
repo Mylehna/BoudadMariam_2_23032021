@@ -89,7 +89,7 @@ a {
 .main {
   max-width: 1440px;
   margin: auto;
-  padding: 0;
+  padding: 2rem;
   box-sizing: border-box;
 }
 
@@ -387,6 +387,7 @@ a {
   }
 }
 .activity {
+  padding: 0 1rem; 
   display: grid;
   column-gap: 2rem;
   margin: 4rem 0;
