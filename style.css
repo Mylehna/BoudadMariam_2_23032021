@@ -12,7 +12,7 @@ a {
 .header {
   display: grid;
   align-items: center;
-  max-width: 1140px;
+  max-width: 1400px;
   margin: auto;
 }
 .headerImg {
@@ -242,8 +242,8 @@ a {
     display: none !important;
   }
 }
-.accomodationgWrapper, .accomodationPopular, .accomodationMain {
-  background-color: #ffffff;
+.accomodationgWrapper .accomodationPopular {
+  background-color: #F2F2F2;
   padding: 2rem;
 }
 
