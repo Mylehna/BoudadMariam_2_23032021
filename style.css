@@ -379,7 +379,7 @@ a {
 @media (max-width: 650px) {
   .accomodationMain {
     grid-template-columns: 1fr;
-    background-color: transparent;
+    background-color: transparent;}
   .main {
     padding: 0;}
   .search {
